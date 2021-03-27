@@ -1,0 +1,88 @@
+﻿Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~GPS_Traking_V1_1.PrjPcb|ReportField=ProjectFullPath~D:\Thiet Bi Giam Sat Hanh Trinh\Hardware\V1.2\GPS_Traking_V1_1.PrjPcb|ReportField=Title~Bill of Materials For Project [GPS_Traking_V1_1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~212|ReportField=ReportTime~4:31:26 PM|ReportField=ReportDate~05-Jun-18|ReportField=ReportDateTime~05-Jun-18 4:31:26 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~05-Jun-18|ReportField=CurrentTime~4:30:27 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Thiet Bi Giam Sat Hanh Trinh\Hardware\V1.2\GPS_Traking_V1_1.SchDoc|ReportField=DocumentName~GPS_Traking_V1_1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~04-Jun-18|ReportField=Organization~|ReportField=ProjectName~GPS_Traking_V1_1.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~GPS_Tracking|ReportField=DataSourceFileName~GPS_Traking_V1_1.PrjPcb|ReportField=DataSourceFullPath~D:\Thiet Bi Giam Sat Hanh Trinh\Hardware\V1.2\GPS_Traking_V1_1.PrjPcb
+32,768 Khz|Crystal 32,768kHz for timer real|X1|XT32kn|XT32k|1
+W25Q32JVSSIQ|FLASH 32MBIT 133MHZ 8SOP|U10|SO-8|W25Q32JV|1
+TPS54360DDA|REG BUCK SPLIT RAIL 8SOPWRPAD|U2|DDA8_3P1X2P4-M|TPS54360DDA|1
+TPS3828||U3|TPS3828|TPS3828|1
+TLV70233DBVT||U1|TLV70233_3.3V|TLV70233_3.3V|1
+TLV431CDBVR|VREF SHUNT ADJ SOT23-5|U21|SOT23-5 DBV|TLV431|1
+STM32F103RCT6|MCU 32BIT 256KB FLASH 64LQFP|U6|LQFP-64|STM32F103RCT6|1
+SN75176A||U13|SN75176A|SN75176A|1
+SMF05C|ESD Protection|U8|SOT_363_6|SMF05C|1
+SIM800C||M1|SIM800C|SIM800C|1
+MICROSIM PUSH PULL||S1|SIM SOCKET PUSH PULL|SIM SOCKET PUSH PULL|1
+0R|Resistor SMD|R17, R20|R0805 SMT|RM|2
+0R|Resistor SMD|R35, R36, R61, R63, R82, R89, R90|R0603 -SMT|RM|7
+1.6M|Resistor SMD|R88|R0603 -SMT|RM|1
+100K|Resistor SMD|R3, R8, R34|R0603 -SMT|RM|3
+10K|Resistor SMD|R1, R9, R21, R22, R23, R37, R42, R43, R50, R51, R59, R60, R64, R65, R69, R71, R73, R75, R76, R77, R78, R79, R80, R81, R87, R92, R93, R94, R95|R0603 -SMT|RM|29
+120R|Resistor SMD|R62|R0603 -SMT|RM|1
+13K|Resistor SMD|R5|R0603 -SMT|RM|1
+18K|Resistor SMD|R86|R0603 -SMT|RM|1
+1K|Resistor SMD|R13, R15, R16, R18, R19, R24, R26, R28, R29, R30, R32, R33, R38, R39, R66, R70, R72, R74, R83, R85, R91|R0603 -SMT|RM|21
+22K|Resistor SMD|R2, R6, R84|R0603 -SMT|RM|3
+22R|Resistor SMD|R46, R47, R52, R55, R58|R0603 -SMT|RM|5
+330R|Resistor SMD|R67, R68|R0603 -SMT|RM|2
+4.7K|Resistor SMD|R11|R0603 -SMT|RM|1
+47K|Resistor SMD|R12, R25, R40|R0603 -SMT|RM|3
+4K7|Resistor SMD|R14, R27, R31, R41|R0603 -SMT|RM|4
+51R|Resistor SMD|R7, R96, R97|R0603 -SMT|RM|3
+62K|Resistor SMD|R10|R0603 -SMT|RM|1
+PIN 3V|Battery 3VDC|BT1|PIN3V_mini|PIN 3V|1
+PC817|Single Opto|U14, U15, U16, U17, U18, U19|DIP4/W0.3|PC817|6
+MT25QL256ABA8ESF-0SIT|FLASH 256MBIT 133MHZ 16SOIC|U11|16-SOP2|MT25QL256ABA|1
+MB85RS64PNF-G-JN|FRAM 64KBIT 20MHZ 8SOP|U9|FPT-8P-M02-M|MB85RS64PNF-G-JN|1
+LM1815M/NOPB|IC AMP ADAPTIV VAR SENSOR|U20|SOIC-D14|LM1815|1
+TLV1117-33CDCYR|3v3|U5|SOT223-4N|LM1117|1
+78M05|On ap +, from + 5 to + 24VDC|U12|TO252-3L|LM78xx|1
+LM7812SX/NOPB|LM7812SX/NOPB|U4|TO-263-4|LM78xx|1
+LED3mm|LED 3 holder RGB 3mm|D6|LED 3 holder 3mm|LED3Holder_3|1
+GPS|LED Single colour Green and Red|D7|Led_0603_RED|LED|1
+PWR_12V|LED Single colour Green and Red|D3|Led_0603_Yellow|LED|1
+PWR_4V|LED Single colour Green and Red|D5|Led_0603_Green|LED|1
+L|Inductor|L4|L2 UF9.8|L2x220|1
+47nH|Inductor|L2|C0805|L1|1
+6.8uH|FIXED IND 6.2UH 5.7A 22.4 MOHM|L1|L01 SMD 12*12*6|L1|1
+JTAG|Connector 4x2|J1|JP4x2|JP4x2|1
+BOOT|Connector 3x2|J2|JP3x2|JP3x2|1
+VRS OUT|Jumper 3|J8|JP3|JP3|1
+watdog|Jumper 2|J13|JP2|JP 2|1
+PWR|Header 4 (Green)|J4|Hed4V_3.96|Hed4|1
+RS485|Header 2 (Green)|J7|Hed2V_3.96|Hed2|1
+GPS L70||U7|GPS L70|GPS L70|1
+RKEF300HF-ND|PTC RESET FUSE 60V 3A RADIAL|F1|FUSE2|Fuse|1
+BLM21PG600SN1D|Ferrite Bead|FB1, FB2, FB3, FB4, FB5, FB6|R0805|Ferrite Bead|6
+B560C-13-F|DIODE SCHOTTKY 60V 5A SMC|D1, D13|DO-214AB SMC|D5A|2
+4148|Diode 1A|D9, D10, D11, D12|DO-4148 SMD|D1A|4
+B340-13-F|DIODE SCHOTTKY 40V 3A SMC, Diode 1A, Diode 1A|D2, D8, D14|DO-214AB SMA|D1A|3
+100uF/100V|Cap 1000uF/16V - 220uF/50V|C12, C13|CP1.5/3.4|CP4|2
+DATA IN1-2|Connector 4|J9|CON_2.54mm_4|Con4|1
+DATA IN3-4|Connector 4|J10|CON_2.54mm_4|Con4|1
+PWR OUT|Connector 4|J3|CON_2.54mm_4|Con4|1
+JP3|Connector 3|JP1|CON_2.54mm_3|Con3|1
+DATA OUT1|Connector 2|J11|CON_2.54mm_2|Con2|1
+DATA OUT2|Connector 2|J12|CON_2.54mm_2|Con2|1
+5D330K 33V|5D330K 33V|C49|CN2|CN|1
+0.33uF|Cap SMD|C53|C0603 SMT|CM|1
+1000pF|Cap SMD|C51|C0603 SMT|CM|1
+104|Cap SMD|C1, C15, C16, C20, C25, C27, C29, C31, C33, C34, C38, C40, C42, C46, C47, C48, C54|C0603 SMT|CM|17
+10nF|Cap SMD|C39|C0603 SMT|CM|1
+10pF|Cap SMD|C22, C23|C0603 SMT|CM|2
+10uF|Cap SMD|C26, C28, C30, C32|C0603 SMT|CM|4
+10uF/16V|Cap SMD|C14, C17|C0603 SMT|CM|2
+10uF/25V|Cap SMD|C10, C11|C0603 SMT|CM|2
+1uF|Cap SMD|C4, C5, C21, C24|C0603 SMT|CM|4
+2.2uF/100V|CAP CER 2.2UF 100V X7R 1210  445-4498-2-ND|C6, C7, C50|SM-1210|CM|3
+22pF|Cap SMD|C18, C19, C41|C0603 SMT|CM|3
+300pF|Cap SMD|C52|C0603 SMT|CM|1
+39pF|Cap SMD|C8|C0603 SMT|CM|1
+4.7uF|Cap SMD|C45|C0603 SMT|CM|1
+47uF|CAP CER 47UF 10V X5R 1210, CAP CER 47UF 10V X5R 1210 1276-3380-2-ND|C2, C3|SM-1210|CM|2
+6800pF|Cap SMD|C9|C0603 SMT|CM|1
+NM|Cap SMD|C43, C44|C0603 SMT|CM|2
+C1815|NPN 600mW, ECB|Q1, Q2, Q3, Q4, Q5|SOT23B|C1815|5
+100uF/16V|Cap Tantalum 7343|C37|C_7343_40|C-Alu-Tantalum|1
+470uF/6V3|Cap Aluminum|C35, C36|C_Alu_6.3x7.7|C-Alu-Tantalum|2
+GPS||J6|Antenna-IPEX|ANTEN|1
+GPS_ANTENNA||J100, J101|Antenna-MCX5.08-H5|ANTEN|2
+GSM||J5|Antenna-IPEX|ANTEN|1
+8MHz|CRYSTAL 16MHZ 18PF SMD|Y1|ABM7_v1_1_BIG|ABM7-16.000MHZ-D2Y-T|1

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=R41-1
+Removed Pin From Net: NetName=NetR39_2 Pin=R41-2
+Removed Member From Class: ClassName=[03] GSM_GPRS_GPS Member=R41
+Added Pin To Net: NetName=NetR81_2 Pin=U6-27

@@ -1,0 +1,70 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~GPS_Tracking_V1.3.PrjPcb|ReportField=ProjectFullPath~C:\Users\RRU\Desktop\GPS_Tracking_V1.3\GPS_Tracking_V1.3.PrjPcb|ReportField=Title~Bill of Materials For Project [GPS_Tracking_V1.3.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~130|ReportField=ReportTime~11:57:22|ReportField=ReportDate~5/17/2019|ReportField=ReportDateTime~5/17/2019 11:57:22|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~GPS_Tracking|ReportField=DataSourceFileName~GPS_Tracking_V1.3.PrjPcb|ReportField=DataSourceFullPath~C:\Users\RRU\Desktop\GPS_Tracking_V1.3\GPS_Tracking_V1.3.PrjPcb
+PIN 3V|Battery 3VDC|BT1|CR1220 socket|PIN 3V|1
+10uF|Cap SMD|C1|C0603 SMT|CM|1
+100uF/100V|Cap 1000uF/16V - 220uF/50V|C2, C3|CP1.5/3.4|CP4|2
+5D330K 33V|5D330K 33V|C4|CN2|CN|1
+104|Cap SMD|C5, C12, C17, C18, C19, C20, C25, C27, C31, C34, C36, C37|C0603 SMT|CM|12
+47uF/10V|CAP CER 47UF 10V X5R 1210, CAP CER 47UF 10V X5R 1210 1276-3380-2-ND|C6, C7|SM-1210|CM|2
+2.2uF/100V|CAP CER 2.2UF 100V X7R 1210  445-4498-2-ND|C8, C9|SM-1210|CM|2
+39pF|Cap SMD|C10|C0603 SMT|CM|1
+6800pF|Cap SMD|C11|C0603 SMT|CM|1
+10uF/16V|Cap SMD|C13, C14, C35|C0603 SMT|CM|3
+100uF/16V|Cap Aluminum, Tantalum 7343|C15|C_Alu_6.3x7.7|C-Alu-Tantalum|1
+1uF|Cap SMD|C16, C26|C0603 SMT|CM|2
+22pF|Cap SMD|C21, C23, C33|C0603 SMT|CM|3
+10pF|Cap SMD|C22, C24|C0603 SMT|CM|2
+470uF/6V3|Cap Aluminum|C28, C29|C_Alu_6.3x7.7|C-Alu-Tantalum|2
+100uF/16V|Cap Tantalum 7343|C30|C_7343_40|C-Alu-Tantalum|1
+10nF|Cap SMD|C32|C0603 SMT|CM|1
+100pF|Cap SMD|C38, C39|C0603 SMT|CM|2
+SS36|DIODE SCHOTTKY 60V 3A SMA|D1, D3|DO-214AB SMA|D5A|2
+SS34|DIODE SCHOTTKY 40V 3A SMC|D2, D5|DO-214AB SMA|D1A|2
+PWR_4V|LED 0603 RED|D4|Led_0603_Green|LED|1
+LED3mm|LED 2 holder RGB 3mm|D6|LED 2 holder 3mm|LED2Holder_3|1
+1N5819|Diode 1A|D7, D11|SOD123|D1A|2
+4148|Diode 1A|D8|DO-4148 SMD|D1A|1
+DIODE-BAV99|ZENER, SOT23,|D9, D12|SOT23|DIODE-BAV99|2
+RKEF300HF-ND|PTC RESET FUSE 60V 3A RADIAL|F1|FUSE2|Fuse|1
+UART3|Jumper 3|J1|JP3|JP3|1
+SIM MICRO PUSH||J2|MicroSim 6P|SIM MICRO PUSH|1
+SMT Connector U.FL Socket|SMT Connector U.FL Socket|J3|Antenna-IPEX|ANTEN|1
+DATA IN 1|Connector 2|J4|CON_2.54mm_2|Con2|1
+V_IN|Connector 2|J5, J7|CON_2.54mm_2|Con2|2
+DATA OUT|Connector 2|J8|CON_2.54mm_2|Con2|1
+VIN|Header 2 (Green)|J9|Hed2V_3.96|Hed2|1
+5mH 13x8x5MM|5mH 13x8x5MM|L1|L2 UF9.8|L2x220|1
+6.8uH 3A|6.8uH 3A 12x12x7MM|L2|L01 SMD 12*12*6|L1|1
+100uH CD75|100uH CD75|L3|L01 CD75|L1|1
+100uH|100uH 0805|L4, L5, L6|R0805|Ferrite Bead|3
+SIM800C||M1|SIM800C|SIM800C|1
+JTAG||P1|JP1x4|JP4|1
+C1815|NPN 600mW, ECB|Q1, Q2, Q3|SOT23B|C1815|3
+22K 1%|Resistor SMD|R1, R3|R0603 -SMT|RM|2
+10K|Resistor SMD|R2, R18, R19, R34, R35, R36, R37, R38, R39, R40|R0603 -SMT|RM|10
+100K|Resistor SMD|R4|R0603 -SMT|RM|1
+10K 1%|Resistor SMD|R5, R43, R47|R0603 -SMT|RM|3
+1K|Resistor SMD|R6, R11, R12, R14, R20, R22, R24, R25, R31, R33, R41|R0603 -SMT|RM|11
+62K|Resistor SMD|R7|R0603 -SMT|RM|1
+4.7K|Resistor SMD|R8|R0603 -SMT|RM|1
+47K|Resistor SMD|R9, R21, R32|R0603 -SMT|RM|3
+3K|Resistor SMD|R10|R0603 -SMT|RM|1
+0R|Resistor SMD|R13|R0805 SMT|RM|1
+22R|Resistor SMD|R15, R16|R0603 -SMT|RM|2
+1.5K|Resistor SMD|R17|R0603 -SMT|RM|1
+4K7|Resistor SMD|R23, R26|R0603 -SMT|RM|2
+1K|Resistor SMD|R27|R0805 SMT|RM|1
+51R|Resistor SMD|R28, R29, R30|R0603 -SMT|RM|3
+1K 1%|Resistor SMD|R42, R46|R0603 -SMT|RM|2
+330R|Resistor SMD|R48|R0603 -SMT|RM|1
+TPS54360DDA|REG BUCK SPLIT RAIL 8SOPWRPAD|U1|DDA8_3P1X2P4-M|TPS54360DDA|1
+TPD4E001||U2|TPD4E001 DBV|TPD4E001|1
+TLV1117-33CDCYR|3v3|U3|SOT223-4N|LM1117|1
+XL7005E|REG BUCK SPLIT RAIL 8SOPWRPAD|U4|DDA8_3P1X2P4-M|XL7005|1
+STM32F101C8T6|STM32 ARM-based 32-bit MCU with 32 Kbytes Flash, 48-pin LQFP, Industrial Temperature|U5|LQFP48-B|STM32F101C8T6|1
+SMF05C|ESD Protection|U6|SOT_363_6|SMF05C|1
+AT24C256||U7|SO-8|AT24Cxx|1
+W25Q32JVSSIQ|FLASH 32MBIT 133MHZ 8SOP|U8|SO-8 208|W25Q32JV|1
+PC817|Single Opto|U9, U11|SOP-4-B|PC817|2
+USB_M||USB1|USB_B_MINI_SMD|USB_M|1
+8MHz|CRYSTAL 16MHZ 18PF SMD|Y1|ABM7_v1_1_BIG|ABM7-16.000MHZ-D2Y-T|1
+32.768kHz|Crystal SMD 6035 - 4 Pads|Y2|XT-SMD MC306|XT4_SMD_MC306|1
