@@ -1,6 +1,0 @@
-Added Component: Designator=R35(RES-SMD-0805)
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=VRTC Pin=R35-1
-Added Pin To Net: NetName=V_BCKP Pin=R35-2
-Added Member To Class: ClassName=U_[03] GSM_GPRS_GPS Member=Component R35 1K
