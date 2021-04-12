@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=C46-2
+Removed Pin From Net: NetName=GND Pin=C47-2
+Removed Pin From Net: NetName=GND Pin=C48-1
+Removed Pin From Net: NetName=+4V_GSM Pin=C100-1
+Removed Pin From Net: NetName=GND Pin=C100-2
+Removed Pin From Net: NetName=+3V3 Pin=FB3-1
+Removed Pin From Net: NetName=+3V3 Pin=FB4-1
+Removed Pin From Net: NetName=VRS_OUT Pin=R82-2
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Pin From Net: NetName=GND Pin=U9-4
+Removed Pin From Net: NetName=GND Pin=U10-4
+Removed Pin From Net: NetName=GND Pin=U11-10
+Removed Pin From Net: NetName=+VIN Pin=U100-1
+Removed Pin From Net: NetName=GND Pin=U100-2
+Removed Pin From Net: NetName=+12V Pin=U100-3
+Removed Pin From Net: NetName=GND Pin=X1-3
+Change Component Comment : Designator=D4 Old Comment=1N5819  New Comment=1N5819
+Added Room: Name=[01] Power Suppy
+Added Room: Name=[02] MCU
+Added Room: Name=[03] GSM_GPRS_GPS
+Added Room: Name=[05] RTC_RS232_USB
+Added Room: Name=[06] Data IN_OUT
