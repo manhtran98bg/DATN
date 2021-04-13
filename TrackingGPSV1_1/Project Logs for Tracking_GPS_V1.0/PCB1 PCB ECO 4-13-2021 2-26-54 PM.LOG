@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=C53-1
-Removed Pin From Net: NetName=+VCC_GPS Pin=C53-2
-Removed Member From Class: ClassName=U_[03] GSM_GPRS_GPS Member=C53
-Added Member To Class: ClassName=U_[03] GSM_GPRS_GPS Member=Component C52 10uF
