@@ -1,9 +1,0 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [GPS_Traking_V1_1.PrjPcb]
-
-
-Files Generated   : 0
-Documents Printed : 0
-
-Finished Output Generation At 4:31:40 PM On 05-Jun-18

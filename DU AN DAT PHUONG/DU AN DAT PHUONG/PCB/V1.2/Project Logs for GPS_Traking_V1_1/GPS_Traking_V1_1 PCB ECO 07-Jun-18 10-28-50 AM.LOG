@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=VRTC Pin=BT2-1
-Added Component: Designator=D4(SOD123)
-Added Pin To Net: NetName=VRTC Pin=D4-2
-Added Pin To Net: NetName=NetBT2_1 Pin=BT2-1
-Added Pin To Net: NetName=NetBT2_1 Pin=D4-1
-Added Net: Name=NetBT2_1
-Added Member To Class: ClassName=[03] GSM_GPRS_GPS Member=Component D4 1N5819 
